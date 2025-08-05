@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import Navbar from '../components/navbar.jsx'
+import Navbar from '../components/Navbar.jsx'
 import NoteCard from '../components/NoteCard.jsx'
 import NotesNotFound from '../components/NotesNotFound.jsx'
 import { toast } from 'react-hot-toast'
